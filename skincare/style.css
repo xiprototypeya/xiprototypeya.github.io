@@ -1,0 +1,112 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1{
+	font-size: 20px;
+	font-family: "Helvetica Neue Bold", "Avenir Heavy", "sans-serif";
+	margin-top: 150px;
+	margin-bottom: 40px;
+	margin-left:50px;
+}
+
+
+
+input{
+	width: 300px;
+	height: 40px;
+	font-size: 15px;
+	font-family: "Helvetica Neue Bold", "Avenir Heavy", "sans-serif";
+	margin-left:50px;
+	margin-top: 150px;
+	background-color: #EFF3FF;
+	border-radius: 10px;
+}
+
+div{
+	margin-left:  30px;
+}
+
+.questions{
+	margin-top: 50px;
+	margin-left: 310px;
+	width: 900px;
+	background-color: #EFF3FF;
+	border-radius: 30px;
+}
+
+#selections{
+	margin-top: 50px;
+	margin-left: 310px;
+	width: 900px;
+	background-color: #EFF3FF;
+	border-radius: 30px;
+}
+
+button{
+	
+	font-size: 15px;
+	font-family: "Helvetica Neue Bold", "Avenir Heavy", "sans-serif";
+	margin-left: 20px;
+	
+	width: 170px;
+	height:50px;
+	background-color: #CFE3FA;
+	border-color: #EFF3FF;
+	border-radius: 30px;
+	
+}
+
+
+
+.send{
+	font-size: 20px;
+	margin-left: 650px;
+	margin-top:50px;
+	margin-bottom: 30px;
+	background-color: #EFF3FF;
+	text-decoration: underline;
+}
+
+
+
+p{
+	font-size: 20px;
+	font-family: "Helvetica Neue Bold", "Avenir Heavy", "sans-serif";
+	margin-top: 150px;
+	margin-bottom: 40px;
+	margin-left:200px;
+}
+
+
+h3{
+	font-size: 18px;
+	font-family: "Helvetica Neue Bold", "Avenir Heavy", "sans-serif";
+	margin-top: 150px;
+	margin-bottom: 40px;
+}
+
+.products{
+	margin-left: 20px;
+}
+
+.skintype{
+	margin-left: 200px;
+}
+
+.habithydration{
+	margin-left: 200px;
+}
+
+.habit{
+	margin-left: 20px;
+}
+
+.routine{
+	margin-left: 200px;
+}
+
+
+#sendanswers{
+	margin-left: 650px;
+	background-color: peachpuff;
+}
